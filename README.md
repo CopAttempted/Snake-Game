@@ -1,6 +1,6 @@
 # Snake Game!
 This is a simple Snake game implemented in Python3 using the Turtle graphics library. The game is designed to be lightweight and easy to play in your whatever-windows manager. It's a fun project to practice your Python skills or just to enjoy some nostalgic gaming moments.
-## PrerequisitesBefore running the game, ensure you have the following prerequisites installed:
+## Ensure you have the following prerequisites installed:
 - Python 3- Tkinter (for GUI)- Turtle graphics library
 You can install Tkinter and Turtle graphics library using the following commands:
 
